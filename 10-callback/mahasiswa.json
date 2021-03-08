@@ -1,0 +1,23 @@
+[
+{
+	"nama": "Riki Widiantoro",
+	"nim": "1111",
+	"email": "riki.com",
+	"jurusan": "Teknik Informatika",
+	"id": 1
+},
+{
+	"nama": "Eren Yeager",
+	"nim": "2222",
+	"email": "Eren.com",
+	"jurusan": "Teknik Mesin",
+	"id": 2
+},
+{
+	"nama": "Mikasa Ackerman",
+	"nim": "3333",
+	"email": "mikasa.com",
+	"jurusan": "Teknik Elektro",
+	"id": 3
+}
+]
